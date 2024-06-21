@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="recycler_view_example">Recycler view Example!</string>
+    <string name="image_of_user">Image of user</string>
+    <string name="age">22</string>
+    <string name="user_name_res">unknown</string>
+</resources>
